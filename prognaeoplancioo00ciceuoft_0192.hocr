@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prognaeoplancioo00ciceuoft_0192.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1793 762 2498 815">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1793 762 2498 815">
+     <span class='ocr_line' id='line_1_1' title="bbox 1793 762 2498 815; baseline 0.004 -17"><span class='ocrx_word' id='word_1_1' title='bbox 1793 764 1797 765; x_wconf 46' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1835 764 2096 801; x_wconf 44' lang='lat' dir='ltr'>famvlo</span> <span class='ocrx_word' id='word_1_3' title='bbox 2209 762 2325 815; x_wconf 60' lang='lat' dir='ltr'>[XIV</span> <span class='ocrx_word' id='word_1_4' title='bbox 2398 778 2498 815; x_wconf 43' lang='lat'>⁴3-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2106 852 2496 888">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2106 852 2496 888">
+     <span class='ocr_line' id='line_1_2' title="bbox 2106 852 2496 888; baseline 0 -9"><span class='ocrx_word' id='word_1_5' title='bbox 2106 861 2109 864; x_wconf 89' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2152 852 2305 888; x_wconf 60' lang='grc' dir='ltr'>..ἕιτεχνκ</span> <span class='ocrx_word' id='word_1_7' title='bbox 2329 855 2356 880; x_wconf 59' lang='grc' dir='ltr'>εἴ</span> <span class='ocrx_word' id='word_1_8' title='bbox 2378 856 2496 882; x_wconf 46' lang='lat' dir='ltr'>&amp;Tufa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 361 542 2912 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 361 542 2912 4368">
+     <span class='ocr_line' id='line_1_3' title="bbox 361 542 2912 4368; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 361 542 2912 4368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
